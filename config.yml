@@ -1,0 +1,17 @@
+---
+title: Cloud Foundry
+name: cloud_foundry
+description: ''
+defaultLocale: en
+locales:
+- code: en
+  iso: en-US
+  name: English
+  file: en.json
+content:
+  frontMatterFormat: yaml
+  systems:
+  - api
+  - routing
+  - grafana
+  - logs
